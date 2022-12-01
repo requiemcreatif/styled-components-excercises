@@ -5,8 +5,8 @@ Official website:
 
 ## Available Scripts
 
-## In the project directory, run:
-
+## got Into the project directory, run:
+#### styled-components-excercises
 ### `npm start`
 ## To install Styled-Components
 ### `npm install --save styled-components`
@@ -21,8 +21,5 @@ You will need to style 6 components using Styled Components.
 #### Main
 #### Side
 #### Footer
-
-
-
 
 # styled-components-excercises
