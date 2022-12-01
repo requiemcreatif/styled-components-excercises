@@ -15,6 +15,12 @@ Official website:
 
 You will need to style 6 components using Styled Components.
 
+#### Main
+#### Navbar
+#### Hero
+#### Main
+#### Side
+#### Footer
 
 
 
